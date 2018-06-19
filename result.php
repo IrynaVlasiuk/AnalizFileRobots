@@ -4,7 +4,7 @@ session_start();
 <table border="2" cellspacing="0">
     <tr class="color-title">
         <th class="col-number">№</th>
-        <th class="col-title">Название проекта</th>
+        <th class="col-title">Название проверки</th>
         <th class="col-status">Статус</th>
         <th class="col-state"></th>
         <th>Текущее состояние</th>

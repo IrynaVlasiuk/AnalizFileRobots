@@ -34,7 +34,7 @@ $active_sheet->getColumnDimension('D')->setWidth(50);
 $active_sheet->getColumnDimension('E')->setWidth(80);
 
 $active_sheet->setCellValue('A1','№');
-$active_sheet->setCellValue('B1','Название проекта');
+$active_sheet->setCellValue('B1','Название проверки');
 $active_sheet->setCellValue('C1','Статус');
 $active_sheet->setCellValue('D1','');
 $active_sheet->setCellValue('E1','Текущее состояние');
