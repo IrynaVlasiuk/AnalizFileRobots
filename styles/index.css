@@ -1,0 +1,92 @@
+.form {
+    text-align: center;
+    border: 2px solid;
+    width: 400px;
+    height: 200px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.title {
+    font-size: 22px;
+}
+
+#url {
+    width: 75%;
+    height: 25px;
+}
+
+.button {
+    margin-top: 25px;
+    border-radius: 5px;
+    border: 1px;
+    background-color: #4682B4;
+    height: 30px;
+    width: 80px;
+}
+
+table {
+    text-align: center;
+    width:100%;
+    margin: auto;
+    table-layout: fixed;
+    font-size: 15px;
+}
+
+table,th,td,tr {
+    border: 1px solid #A9A9A9;
+}
+.col-number, .col-empty {
+    width: 20px;
+}
+
+.col-status {
+    width: 60px;
+}
+
+.col-title {
+    width: 290px;
+}
+
+.col-state {
+    width: 210px;
+}
+
+.color-error {
+    background-color: #CD5C5C;
+}
+
+.color-ok {
+    background-color: #2E8B57;
+}
+
+.color-title {
+    background-color: #5F9EA0;
+}
+
+.row-empty {
+    background-color: #D3D3D3;
+    height: 12px;
+}
+
+.div-btn {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.btn-save {
+    background-color: #4682B4;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px;
+    padding: 10px;
+    text-decoration: none;
+    color: 	#000000;
+}
+
+.msg-error {
+    color: #800000;
+}
