@@ -1,6 +1,7 @@
 <?php
 
-Class UrlInfo {
+Class UrlInfo
+{
     public $url;
     public $isValid;
 
