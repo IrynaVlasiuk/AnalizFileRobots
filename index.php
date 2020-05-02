@@ -7,8 +7,7 @@
 </head>
 <body>
 <?php
-    
-    // Подключаем классы и переменные
+
     include 'variables.php';
     include 'classes/UserInfo.php';
     include 'classes/ValidationState.php';
@@ -140,7 +139,7 @@ if(isset($_POST['submit'])){
 <div class="content">
 
 <?php
-    // Показать таблицу результатов если ссылка корректная
+    // Show the table with results if a link is correct
     if($should_show_result){
        include 'result.php';
     }
